@@ -1,8 +1,16 @@
 
 
+# AMK Challenge
 
+## Roadmap
 
+1. [RE](#re)
+2. [WEB](#web)
+3. [crypto](#crypto)
+4. [pwn](#pwn)
+5. [Forensic](#forensic)
 
+____
 
 1. ### re
 
@@ -169,7 +177,7 @@ hint :
 
 **Short-pad?**
 
-4. ### Forensic
+4. ### forensic
 
 
 
@@ -223,7 +231,7 @@ hint
 
 **Generate your password list, not using keyword `common password google` >.<**
 
-5. ### PWN
+5. ### pwn
 
 a. 
 
